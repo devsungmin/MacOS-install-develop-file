@@ -3,7 +3,11 @@
     ``` shell
     git clone https://github.com/devsungmin/MacOS-install-develop-file.git
     ```
-2. Run 'install.sh' file
+2. Add authorization
+    ```shell
+    chmod +x ./install.sh
+    ```
+3. Run **install.sh** file
     ```shell
     ./install.sh
     ```
