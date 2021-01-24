@@ -7,6 +7,7 @@ brew "fd"
 brew "git"
 brew "ripgrep"
 brew "zsh-autosuggestions"
+brew "nyancat"
 
 cask "google-chrome"
 cask "visual-studio-code"
